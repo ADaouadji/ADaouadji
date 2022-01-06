@@ -1,10 +1,5 @@
 ### Hi there, I'm Abdel - 👋
 
-## I'm a Web Developer !!
-
-- 🌱 I’m currently learning ReactJs and everything Javascript stack :)
-- 🥅 2021 Goals: Learn more, get a new job and contribute more to Open Source projects
-- 👯 I’m looking to collaborate with other content creators
 
 
 
